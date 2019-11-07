@@ -1,0 +1,3 @@
+[submodule "familia-mobile"]
+	path = familia-mobile
+	url = https://github.com/indecosoft/familia-mobile
